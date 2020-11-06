@@ -26,7 +26,7 @@ class NodeController extends Controller
         return response()->json($results);
     }
 
-    //end point 9 Add node to a specific graph;
+    //end point 9 delete node to a specific node;
   //route:localhost:8000/api/nodes/{node_id}
      //method:delete
      //params:
